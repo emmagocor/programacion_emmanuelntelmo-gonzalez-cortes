@@ -1,5 +1,5 @@
 /**********************
-Ernesto Macin Morales
+emmanuel antelmo gonzalez cortes
 DaysInAMonth.java
 
 This program finds the number of days in a month

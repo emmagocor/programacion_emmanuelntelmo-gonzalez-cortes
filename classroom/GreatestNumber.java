@@ -1,5 +1,5 @@
-/*********************
-Ernesto Macin Morales
+/*****************
+emmanuel antelmo gonzalez cortes
 
 GreatestNumber.java
 This program finds the greatest of three numbers

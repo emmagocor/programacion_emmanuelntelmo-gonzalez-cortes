@@ -1,5 +1,5 @@
 /***************************
-Ernesto Macin Morales
+emmanuel antelmo gonzalez cortess
 This program prints if a number is possitive or negative
 ****************************/
 import javax.swing.JOptionPane;
